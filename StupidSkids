@@ -1,1 +1,1 @@
-local StupidSkids = {'a','b'}
+getgenv().StupidSkids = {'a','b'}
